@@ -2,3 +2,4 @@ You can find the applicabile dataset from this website from data.licity.org: htt
 
 Find the "Export" button in the top right to export the CSV file to your desired location. 
 Ensure that you know where in your diectory the file was downloaded to so you will be able to append the example script to reflect these changes in your directory.
+Under the "About" tab of the website, you will find a useful data dictionary explaing the meaning of each variable including its name, description, API field name, and data type.
