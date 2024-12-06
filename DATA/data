@@ -1,1 +1,4 @@
+You can find the applicabile dataset from this website from data.licity.org: https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data 
 
+Find the "Export" button in the top right to export the CSV file to your desired location. 
+Ensure that you know where in your diectory the file was downloaded to so you will be able to append the example script to reflect these changes in your directory.
